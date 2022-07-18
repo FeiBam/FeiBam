@@ -1,12 +1,12 @@
 ## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=ControlNet&fontSize=60)
 
 <div align="center">
- <img src="https://img.shields.io/github/followers/ControlNet?style=flat-square&color=lightblue">
- <img src="https://img.shields.io/github/stars/ControlNet?style=flat-square&color=red">
+ <img src="https://img.shields.io/github/followers/FeiBam?style=flat-square&color=lightblue">
+ <img src="https://img.shields.io/github/stars/FeiBam?style=flat-square&color=red">
 </div>
 
 <p></p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ControLNet&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FeiBam&count_private=true&hide=contribs,prs&show_icons=true&theme=radical">
 
 🎓 I'm a new student studying in computer science and information technology area. Now I am mainly learning
  -  Computer Vision
@@ -23,7 +23,7 @@
 
 ## 💾 Programming Languages and Tools
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ControlNet&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeiBam&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
 
 <ul>
     <li>
@@ -119,13 +119,13 @@
 ## 📮 Contact
 
 <div align="center">
-  <a href="https://controlnet.space"><img align="center" src="https://img.shields.io/badge/Blog-ControlNet-lightblue?logo=hexo&style=for-the-badge">
-  <a href="mailto:smczx@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-Hotmail-yellowgreen?logo=minutemailer&style=for-the-badge"></a>
+  <a href="https://feibam.club"><img align="center" src="https://img.shields.io/badge/Blog-ControlNet-lightblue?logo=hexo&style=for-the-badge">
+  <a href="mailto:root@feibam.club"><img align="center" src="https://img.shields.io/badge/Email-Hotmail-yellowgreen?logo=minutemailer&style=for-the-badge"></a>
 </div>
 
 <p></p>
  
-<div align="center"><img align="center" src="https://count.getloli.com/get/@ControlNet?theme=rule34"></div>
+<div align="center"><img align="center" src="https://count.getloli.com/get/@FeiBam?theme=rule34"></div>
 <!--
 **ControlNet/ControlNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
